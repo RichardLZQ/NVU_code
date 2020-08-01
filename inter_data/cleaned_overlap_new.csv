@@ -1,0 +1,20 @@
+Pathtype,SuperPath Name,aEC1_up,aEC2_up,CapEC_up,vCapEC_up,vEC_up,aEC1_down,aEC2_down,CapEC_down,vCapEC_down,vEC_down
+BBB,Adherens Junction,4,4,7,NA,NA,NA,NA,NA,NA,NA
+BBB,Tight Junction,NA,NA,9,NA,NA,NA,4,5,NA,NA
+BBB,TGF-beta Signaling Pathway,4,6,13,7,NA,2,3,4,3,3
+BBB,VEGF Signaling Pathway,5,4,9,5,4,NA,NA,NA,NA,NA
+BBB,EPH-Ephrin Signaling,NA,NA,8,NA,NA,NA,4,5,NA,NA
+BBB,EphB-EphrinB Signaling,NA,NA,NA,NA,NA,NA,NA,6,NA,NA
+BBB,Blood-Brain Barrier and Immune Cell Transmigration: VCAM-1/CD106 Signaling Pathways,5,NA,11,NA,NA,NA,3,NA,NA,NA
+BBB,Blood-Brain Barrier and Immune Cell Transmigration: Pathways Overview,NA,NA,5,NA,NA,NA,NA,NA,3,NA
+IMM,Interferon Gamma Signaling,NA,NA,NA,NA,NA,4,NA,NA,NA,3
+IMM,Toll Comparative Pathway,NA,4,NA,5,NA,NA,NA,NA,NA,NA
+IMM,Interleukin-4 and 13 Signaling,NA,NA,7,NA,NA,NA,NA,NA,NA,NA
+IMM,IL-17 Family Signaling Pathways,NA,NA,NA,5,NA,NA,NA,NA,NA,NA
+IMM,Immune Response IL-2 Activation and Signaling Pathway,NA,NA,NA,4,3,NA,NA,NA,NA,NA
+IMM,Immune Response_IL-6 Signaling Pathway,NA,NA,NA,3,2,NA,NA,NA,NA,NA
+IMM,Innate Immune System,NA,NA,NA,NA,NA,NA,9,NA,NA,NA
+IMM,IL-1 Signaling Pathway,NA,NA,NA,4,NA,NA,NA,4,NA,3
+IMM,Cytokine Signaling in Immune System,NA,NA,NA,NA,NA,NA,NA,NA,8,NA
+ENG,Glucose / Energy Metabolism,NA,NA,NA,NA,3,5,NA,8,7,NA
+ENG,"Respiratory Electron Transport, ATP Synthesis By Chemiosmotic Coupling, and Heat Production By Uncoupling Proteins.",NA,NA,NA,NA,NA,NA,NA,13,NA,NA
