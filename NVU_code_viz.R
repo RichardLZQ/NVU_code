@@ -429,6 +429,7 @@ degdot <- function(x,y){ # Visualized the intersec items between x and y by LogF
     df <- df %>% filter(sig>0) # Filter the unsignificant genes
     new.levels <- c("evo_sig","ovy_sig","both_sig")
     df$sig <- factor(new.levels[df$sig],levels = c("evo_sig","ovy_sig","both_sig"))
+    df <- df %>% filter(sig!="evo_sig")
     formula <- y ~ x
     print(ggplot(df, aes(x=ovy,y=evo))+ geom_point(size=2,alpha = 0.7,colour="#325d81")+
             stat_smooth_func(geom="text",method="lm",hjust=0,vjust=1,parse=T)+
